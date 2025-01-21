@@ -1,15 +1,9 @@
-# React Todo App with API (complete)
+# React TypeScript Starter Pack
 
-## Project Description
-This is an implementation of a basic ToDoApp using React.
+To use this template click `Use this template`
 
-## Technologies Used
-This project utilizes the following technologies and libraries:
-- React
-- React Router
-- SCSS with BEM (Block, Element, Modifier) methodology
+### Available Scripts
 
-## Preview Link
-[DEMO LINK](https://ydashko.github.io/toDoApp-Vite/)
+`Deploy` - available to deploy your application to gh-pages
 
-
+`SCSS Preprocessor` - available to write your styles with modern style language
